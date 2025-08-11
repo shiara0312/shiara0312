@@ -29,7 +29,7 @@ Hi! I am Shiara Arauzo, a peruvian-based Product Designer & Researcher. Currentl
 
 ### 🚀 Last projects
 
-- **[The.research.blog](https://www.instagram.com/the.research.blog/?hl=es):** Space where I write tips about research.
+- **[The research blog](https://www.instagram.com/the.research.blog/?hl=es):** Space where I write tips about research.
 
 
 ---
