@@ -27,10 +27,10 @@ Hi! I am Shiara Arauzo, a peruvian-based Product Designer & Researcher. Currentl
 
 
 
-### 🚀 Proyects that I put my heart into
+### 🚀 Last projects
 
-- **[Nombre del Proyecto](Link al Repo):** Breve descripción del proyecto.
-- **[Otro Proyecto](Link al Repo):** Un proyecto interesante en el que he trabajado.
+- **[The.research.blog](https://www.instagram.com/the.research.blog/?hl=es):** Space where I write tips about research.
+
 
 ---
 
