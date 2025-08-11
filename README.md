@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Hi! I am Shiara Arauzo, a peruvian-based Product Designer & Researcher. Currently working in Scotiabank pe.
+<br>
 🔭 I’m passionate about 🎮creating/playing videogames, 💫 animating stuff on web & 🌱 hiking.
 ### 💻 Tools
 
