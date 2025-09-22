@@ -18,13 +18,7 @@ Hi! I am Shiara Arauzo, a peruvian-based Product Designer & Researcher. Currentl
 <br>
 🔭 I’m passionate about 🎮creating/playing videogames, 💫 animating stuff on web & 🌱 hiking.
 ### 💻 Tools
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-black?style=flat&logo=Figma&logoColor=purple&logoSize=auto&color=%23ffffff)
-![Unity](https://img.shields.io/badge/Unity-black?style=flat&logo=Unity&logoColor=black&logoSize=auto&color=%23ffffff)
-
+Javascript, C#, HTML, CSS
 
 
 ### 🚀 Last projects
