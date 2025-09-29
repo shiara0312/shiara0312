@@ -19,7 +19,7 @@ Hi! I am Shiara Arauzo, a peruvian-based Product Designer & Researcher. Currentl
 🔭 I’m passionate about 🎮creating/playing videogames, 💫 animating stuff on web & 🌱 hiking.
 ### 💻 Tools
 Javascript, C#, HTML, CSS
-
+Unity, Godot
 
 ### 🚀 Last projects
 
